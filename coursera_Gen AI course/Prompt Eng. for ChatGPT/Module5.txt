@@ -1,0 +1,71 @@
+Q.1.Choose one of the patterns from this module and write a sample prompt using the pattern. Provide the prompt and output of using the prompt 
+in ChatGPT or another large language model. 
+
+Ans-
+Pattern: "Quest" game play
+
+Sample Prompt
+Prompt:
+
+"Welcome to the Adventure of Knowledge! Your quest is to uncover three hidden facts about artificial intelligence. 
+Each fact you discover will bring you closer to completing your quest. Start by asking me any question related to AI, and I'll 
+guide you through your adventure. Are you ready to begin?"
+
+Expected Output
+Output:
+
+"Great to see you're ready for your quest! For your first discovery, ask me a question about AI. It could be about its history, 
+applications, or how it works. Once you get your answer, I'll reveal the next clue to continue your journey."
+User asks: "What are some common applications of AI?"
+
+Output:
+
+"Excellent question! AI has many applications. Some common ones include:
+
+1.Virtual Assistants: Like Siri and Alexa, which help with everyday tasks.
+
+2.Recommendation Systems: Such as those used by Netflix or Amazon to suggest movies or products.
+
+3.Autonomous Vehicles: Self-driving cars that use AI to navigate and make driving decisions.
+
+You've discovered your first fact! Now, for the next step in your quest, ask me about the history of AI or its key components."
+
+This pattern engages users by framing the interaction as an adventure with steps to complete, keeping the experience interactive and motivating.
+
+
+Q.2.Choose another one of the patterns from this module and write a sample prompt using the pattern. This prompt must be applied to some information 
+that you provide in the prompt before the pattern. Provide the prompt and output of using the prompt in ChatGPT or another large language model. 
+
+Ans-
+Pattern: Recipe
+
+Information Provided: Here is a basic recipe for a classic Caesar salad:
+
+Ingredients:
+-1 large head of romaine lettuce.
+-1 cup of croutons.
+-1/2 cup of grated Parmesan cheese.
+-1/4 cup of Caesar salad dressing.
+-1 clove of garlic, minced.
+-2 tablespoons of lemon juice
+Salt and pepper to taste.
+
+Prompt Using Recipe Pattern: "Create a step-by-step guide to make the Caesar salad using the following ingredients: romaine lettuce, croutons, 
+Parmesan cheese, Caesar salad dressing, garlic, lemon juice, salt, and pepper."
+
+Output: To make a classic Caesar salad, follow these steps:
+
+1.Prepare the Lettuce: Rinse the romaine lettuce thoroughly under cold water. Pat dry with paper towels and chop or tear the lettuce 
+into bite-sized pieces.
+
+2.Prepare the Dressing: In a small bowl, mix together the Caesar salad dressing, minced garlic, and lemon juice.
+
+3.Combine Ingredients: In a large salad bowl, toss the chopped lettuce with the dressing mixture until the leaves are evenly coated.
+
+4.Add Croutons and Cheese: Sprinkle the croutons and grated Parmesan cheese over the dressed lettuce.
+
+5.Season: Add salt and pepper to taste, and toss the salad gently to combine all the ingredients.
+
+6.Serve: Serve the salad immediately for the best taste and texture.
+
+Enjoy your fresh and flavorful Caesar salad!

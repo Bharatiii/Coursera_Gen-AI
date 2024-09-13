@@ -1,0 +1,124 @@
+Q.1.Write a prompt and test it with ChatGPT or another large language model that uses few-shot examples to teach the large language model to perform a 
+complex task. Provide the prompt and sample output from using the prompt.
+
+Ans-
+Prompt: I’m going to provide you with a few examples of how to summarize academic research papers in a concise manner, emphasizing the main argument, 
+methodology, and findings. After seeing the examples, you’ll be asked to summarize a new paper using the same pattern.
+
+Example 1:
+
+Paper Title: "The Impact of Climate Change on Global Agricultural Productivity"
+
+Summary: This paper investigates how climate change affects global agricultural output by analyzing data from 50 countries over 20 years. 
+The authors use a regression analysis to identify correlations between rising temperatures, changing precipitation patterns, and crop yields. 
+The findings suggest that while some regions may benefit from longer growing seasons, overall global productivity is expected to decline by 10-15% by 
+2050 due to increased frequency of extreme weather events and reduced water availability.
+
+Example 2:
+
+Paper Title: "Artificial Intelligence in Healthcare: Enhancing Diagnosis Accuracy"
+
+Summary: This research examines the role of artificial intelligence (AI) in improving diagnostic accuracy in healthcare. 
+The authors conduct a meta-analysis of 100 clinical studies that compare AI-driven diagnostic tools to traditional methods. 
+Results show that AI can improve diagnostic accuracy by up to 20%, particularly in areas like radiology and pathology, 
+though the paper also highlights the need for further research on integrating AI with existing healthcare systems to ensure widespread 
+adoption and minimize error risks.
+
+Example 3:
+
+Paper Title: "Blockchain and Financial Systems: Security and Efficiency"
+
+Summary: The paper explores the use of blockchain technology in enhancing the security and efficiency of financial systems. 
+By reviewing case studies from five major financial institutions that implemented blockchain-based solutions, the authors demonstrate 
+a reduction in transaction times by 40% and improved protection against fraud through decentralized ledgers. However, the paper also 
+discusses scalability concerns and the high energy consumption associated with current blockchain models.
+
+Task: Now, based on these examples, summarize the following paper:
+
+Paper Title: "The Role of Remote Work in Employee Productivity Post-Pandemic"
+
+Sample Output:
+
+Summary: This paper explores the effects of remote work on employee productivity following the COVID-19 pandemic. The authors surveyed 500 employees 
+from different industries who transitioned to remote work in 2020. The study uses a mixed-methods approach, combining quantitative productivity 
+metrics with qualitative interviews. Results show that while productivity increased for employees with flexible schedules and appropriate home-office 
+setups, others faced challenges like lack of collaboration and isolation. The paper concludes that remote work can enhance productivity if supported 
+by proper infrastructure and organizational policies.
+
+
+
+
+Q.2.Write a prompt and test it with ChatGPT or another large language model that uses few-shot examples to teach the large language model to 
+perform a complex task that requires performing intermediate sub-steps. Provide the prompt and sample output from using the prompt.
+
+Ans-
+Prompt: I’m going to show you a few examples of how to solve complex mathematical word problems by breaking them down into intermediate sub-steps. 
+After seeing the examples, you'll be asked to solve a new problem using the same approach.
+
+Example 1:
+
+Problem: A car travels 150 miles in 3 hours. If the car continues at the same speed, how long will it take to travel 600 miles?
+
+Solution:
+
+Sub-step 1: Find the speed of the car.
+Speed= Distance/Time
+=
+150 miles/3 hours
+=50 miles per hour.
+Sub-step 2: Use the speed to find how long it takes to travel 600 miles.
+Time= Distance/speed=
+600 miles/50 miles per hour
+=12 hours.
+Answer: It will take 12 hours to travel 600 miles.
+
+Example 2:
+
+Problem: A factory produces 240 widgets in 8 hours. How many widgets can the factory produce in 15 hours?
+
+Solution:
+
+Sub-step 1: Find the rate of production per hour.
+Rate of production=
+Time
+Widgets=
+240 widgets/ 8 hours
+=30 widgets per hour.
+Sub-step 2: Multiply the rate by the new time period (15 hours).
+Widgets produced in 15 hours=30 widgets per hour×15 hours=450 widgets.
+Answer: The factory can produce 450 widgets in 15 hours.
+
+Example 3:
+
+Problem: If a train travels 120 miles in 2 hours, and then 180 miles in 3 hours, what is the average speed of the train for the entire journey?
+
+Solution:
+
+Sub-step 1: Find the total distance traveled.
+Total distance=120 miles+180 miles=300 miles.
+Sub-step 2: Find the total time taken.
+Total time=2 hours+3 hours=5 hours.
+Sub-step 3: Calculate the average speed using total distance and total time.
+Average speed=60 miles per hour
+Answer: The average speed of the train is 60 miles per hour.
+
+Task: Now, solve the following problem by breaking it down into intermediate sub-steps.
+
+Problem: A cyclist rides 50 miles in 2 hours, rests for 30 minutes, and then rides another 70 miles in 3 hours. What is the cyclist's average 
+speed for the entire trip, including the rest time?
+
+Sample Output:
+
+Solution:
+
+Sub-step 1: Convert the rest time to hours.
+Rest time=30 minutes=0.5 hours.
+Sub-step 2: Find the total time taken, including rest time.
+Total time=2 hours+3 hours+0.5 hours=5.5 hours.
+Sub-step 3: Find the total distance traveled.
+Total distance=50 miles+70 miles=120 miles.
+Sub-step 4: Calculate the average speed using the total distance and total time.
+Average speed= Total distance/Total time
+= 120 miles/5.5 hour ≈21.82 miles per hour.
+
+Answer: The cyclist’s average speed for the entire trip, including rest time, is approximately 21.82 miles per hour.

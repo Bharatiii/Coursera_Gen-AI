@@ -1,0 +1,80 @@
+Q.1.Create a prompt and test it with a large language model, such as ChatGPT, that introduces new information since 
+2021. Please only use public information. Do NOT use information that is private, subject to legal restrictions, 
+or otherwise should not be shared with Coursera, ChatGPT, the instructor, etc. The prompt should require the large language 
+model to answer a question about the information. Please provide your prompt and the output as the answer.
+
+Ans-
+Question:
+What are some significant technological innovations or scientific breakthroughs introduced in the field of artificial intelligence (AI) 
+or quantum computing since 2021?
+
+Sample Output
+Since 2021, several significant advancements have emerged in the fields of artificial intelligence and quantum computing:
+
+Transformers and Large Language Models (LLMs): AI has made remarkable progress, particularly in natural language processing (NLP). 
+Models like GPT-4 (released in 2023) demonstrate enhanced capabilities in understanding and generating human-like text. These models have improved 
+contextual understanding and can perform complex reasoning, creative writing, and problem-solving tasks. OpenAI and Google DeepMind have continued 
+to advance LLMs, making them more efficient and accessible for various applications, including education, coding, and healthcare.
+
+AI for Drug Discovery: AI has accelerated the drug discovery process. DeepMind’s AlphaFold revolutionized biology by predicting protein structures 
+with high accuracy, which had major implications for understanding diseases and developing treatments. As of 2022, AlphaFold had predicted the 
+structures of nearly every known protein, contributing to breakthroughs in areas like cancer research and biotechnology.
+
+Quantum Supremacy and Practical Quantum Computers: Google and IBM continued to make strides in quantum computing. In 2022, IBM unveiled the 
+Eagle processor, a 127-qubit quantum chip, which pushed the boundaries of quantum performance. This chip is considered a significant step towards 
+achieving quantum supremacy—the point at which quantum computers outperform classical computers in practical applications. These advancements promise 
+to revolutionize industries such as cryptography, materials science, and complex system simulations.
+
+AI in Autonomous Systems: AI's integration into autonomous systems, such as self-driving cars and drones, has grown. Companies like Tesla, Waymo, 
+and others have made improvements to AI-driven navigation systems. By 2023, advancements in AI algorithms have significantly improved the reliability 
+and safety of autonomous driving, although full autonomy remains under development.
+Ethics and Regulation of AI: Governments and organizations have been focusing on the ethical implications of AI. 
+In 2023, the European Union made progress in drafting the AI Act, which aims to regulate high-risk AI systems and ensure 
+their development aligns with ethical guidelines to protect privacy, prevent discrimination, and promote transparency.
+
+These innovations and breakthroughs demonstrate the rapid pace of AI and quantum computing development, with applications ranging from scientific 
+research to industry and society at large.
+
+
+
+Q.2.Create a prompt and test it with a large language model, such as ChatGPT, that introduces new information since 2021. Please only use public 
+information. Do NOT use information that is private, subject to legal restrictions, or otherwise should not be shared with Coursera, ChatGPT, 
+the instructor, etc. The prompt should require the large language model to perform a task, other than answering a question, with the information. 
+Please provide your prompt and the output as the answer.
+
+Ans-
+Here is an example of a prompt that introduces new public information since 2021 and requires a large language model to perform a task:
+
+Prompt: In 2023, several developments occurred in AI research, such as the release of GPT-4 by OpenAI, which improved language 
+understanding and processing capabilities. Additionally, there has been a focus on the ethical implications of AI, particularly with the rise of 
+large-scale models. Using this information, generate a report outlining three key advancements in AI from 2022 to 2023. Then, suggest two ethical 
+concerns that might arise with these advancements and propose possible solutions to address them.
+Output:
+
+Report on AI Advancements (2022-2023):
+
+a.GPT-4 Release (2023): OpenAI released GPT-4, a highly advanced language model, which significantly improved upon GPT-3 by enhancing its 
+ability to understand complex queries and generate more coherent and context-aware responses. It supports more languages, better handles nuanced 
+conversations, and offers improved text generation, making it a powerful tool for applications in customer service, content creation, and research.
+
+b.AI in Drug Discovery (2022): AI played a pivotal role in accelerating drug discovery processes. By analyzing vast datasets, AI models helped identify 
+promising compounds for treatments faster than traditional methods. In 2022, AI-assisted drug discovery led to breakthroughs in treatments for 
+diseases like cancer and Alzheimer's, showing potential in reducing the time and cost of developing new therapies.
+
+c.AI-Assisted Autonomous Systems (2023): AI advancements have improved the capabilities of autonomous systems, such as self-driving cars and drones. 
+By integrating more sophisticated machine learning algorithms, these systems can make safer and more reliable decisions in real-time, reducing the 
+likelihood of accidents and improving operational efficiency.
+
+Ethical Concerns and Solutions-
+
+a.Bias in AI Models: As AI models become more powerful, the risk of embedding bias in their outputs increases. This can lead to unfair treatment in 
+areas like hiring, law enforcement, and healthcare.
+
+Solution: Implement more rigorous fairness assessments during the training phase, and use diverse datasets that represent a wide range of demographics 
+to reduce bias. Additionally, regular audits and transparency in AI decision-making processes should be mandated.
+
+b.Job Displacement: AI systems are automating more jobs, especially in fields like customer service, manufacturing, and transportation. 
+This could lead to significant job losses in certain sectors.
+
+Solution: Governments and industries should invest in retraining and upskilling programs to help workers transition into new roles where human 
+skills are still in demand, such as in creative, managerial, or technical fields.

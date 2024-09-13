@@ -1,0 +1,59 @@
+Q.1.Develop your own prompt-based application, similar to the outlining application from the videos, to help you accomplish a task. 
+Your application can do whatever you want and does not have to be focused on outlining. Come up with a creative way of using large language 
+models to program an environment to solve a problem you face on a daily basis. 
+Provide your prompt and a sample of using the prompt-based application. 
+
+
+Ans-
+Problem:
+On busy days, it can be difficult to manage multiple tasks, prioritize them, and know where to start. This leads to feeling overwhelmed or unfocused.
+
+Application Objective:
+The Task Streamlining Assistant will take a list of tasks as input, break them down into manageable sub-tasks, and create a prioritized schedule 
+based on estimated times and importance.
+
+Prompt Structure:
+
+User Input: A list of tasks, importance level, estimated time to complete, and preferred start/end times for the day.
+Assistant Output: A structured schedule with suggested breaks, priority management, and an estimated completion time for the day.
+Example Prompt:
+
+Prompt to the assistant:
+
+“I have 5 tasks to complete today. 
+Task 1: Write a blog post (High priority, 2 hours), 
+Task 2: Respond to emails (Medium priority, 30 minutes), 
+Task 3: Design a presentation (High priority, 1.5 hours), 
+Task 4: Client meeting prep (Low priority, 45 minutes), 
+Task 5: Research project for proposal (Medium priority, 1.5 hours). I would like to start my day at 9 AM and finish by 5 PM, with at least one hour 
+for lunch. Please help me organize this efficiently.”
+
+Sample Output:
+
+1.9:00 AM - 11:00 AM: Write a blog post (High priority)
+
+2.11:00 AM - 11:30 AM: Respond to emails (Medium priority)
+
+3.11:30 AM - 12:00 PM: Break
+
+4.12:00 PM - 1:30 PM: Design presentation (High priority)
+
+5.1:30 PM - 2:30 PM: Lunch break
+
+6.2:30 PM - 3:15 PM: Client meeting prep (Low priority)
+
+7.3:15 PM - 4:45 PM: Research project for proposal (Medium priority)
+
+8.4:45 PM - 5:00 PM: Final check and wrap up
+
+End of Day: 5:00 PM
+
+This prompt-based application helps the user not only structure their day but also prevents burnout by introducing breaks, prioritizing important tasks, 
+and estimating how long the entire day will take based on the time constraints provided.
+
+Features:
+1.Time allocation and optimization: Automatically manages task duration and ensures tasks fit within the given timeframe.
+
+2.Break management: Suggests breaks to maintain productivity and focus.
+
+3.Priority scheduling: Handles tasks based on their urgency and importance, ensuring that critical tasks are tackled first.
